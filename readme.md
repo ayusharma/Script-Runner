@@ -13,5 +13,6 @@ pip install -r requirement.txt
 python app.py
 
 #### Step 5 : Passing the parameters
-http://localhost:5000/?script=<name of script in settings.py>&args=<arg1,arg2>
-Examole: http://localhost:5000/?script=test&args=hello
+http://localhost:5000/?script=[name of script in settings.py]&args=[arg1,arg2]
+
+Example: http://localhost:5000/?script=test&args=hello
