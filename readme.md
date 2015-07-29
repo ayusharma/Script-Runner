@@ -1,8 +1,10 @@
-# Step- 1 : Creating Virtual Environemt
-Run "Setup.sh"
+#Flask Script Runner
 
-#Step-2 : Activate Virtual Environment
-"Source venv/bin/activate"
+## Step- 1 : Creating Virtual Environemt
+./setup.sh
 
-#Step-3 : Installing dependecies
+## Step-2 : Activate Virtual Environment
+source venv/bin/activate
+
+## Step-3 : Installing dependecies
 pip install -r requirement.txt
